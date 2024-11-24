@@ -1,0 +1,4 @@
+Tour Name,Description,Price,Duration
+Relaxation in Hawaii,Enjoy sunny beaches and luxury resorts,1500,7
+City Tour in Paris,Explore the historic and cultural sites of Paris,1200,5
+Cruise in the Caribbean,Amazing 10-day cruise through the Caribbean islands,3000,10
