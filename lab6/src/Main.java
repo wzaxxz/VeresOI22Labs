@@ -1,5 +1,3 @@
-package Main;
-
 import commands.*;
 import services.TourService;
 
